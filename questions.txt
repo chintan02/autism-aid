@@ -1,0 +1,80 @@
+1.If you want something across the room does your child look at it? 
+Yes
+No
+B
+2. Have you ever wondered your child might be deaf?
+Yes
+No
+B
+3. Does your child play pretend or make believe? (For example to pretend to drink from a empty cup)
+Yes
+No
+B
+4. Does your child like climbing on things? (Example for furniture, playground equipment, or stairs?)
+Yes
+No
+B
+5. Child makes unusual make finger movements near his or her eyes?
+Yes
+No
+B
+6. Does your child point with one finger to ask for something or to get help? 
+Yes
+No
+B
+7. Does your child point with one finger to show you something interesting? 
+Yes
+No
+B
+8. Is your child interested in other children
+Yes
+No
+B
+9. Does your child show you things by bringing them to you or holding them up for you to ? 
+Yes
+No
+B
+10. Does your child respond when you call his or her name? 
+Yes
+No
+B
+11. When you smile at your child, does he or she smile back at you?
+Yes
+No
+B
+12. Does your child get upset by everyday noises?
+Yes
+No
+B
+13. Does your child walk?
+Yes
+No
+B
+14. Does your child look you in the eye when you are talking/playing/dressing with him or her?
+Yes
+No
+B
+15. Does your child try to copy what you do? (For Example, wave bye-bye, clap when you do)
+Yes
+No
+B
+16. If you turn your head at something, does your child look around to see what you are looking at?
+Yes
+No
+B
+17. Does your child try to get you to watch him or her? 
+Yes
+No
+B
+18. Does your child understand when you tell him or her to do something?
+Yes
+No
+B
+19. If something new happens, does your child look at your face to see how you feel about it?
+Yes
+No
+B
+20. Does your child like movement activities? 
+Yes
+No
+B
